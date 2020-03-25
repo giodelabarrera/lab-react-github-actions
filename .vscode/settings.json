@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "ci.yml"
+      ],
+      "url": "http://json.schemastore.org/github-workflow"
+    }
+  ],
+}
